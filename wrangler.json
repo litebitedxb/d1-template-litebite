@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "d1-template-litebite",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "f6e8136c-6653-4e7d-8ce8-f7d58a9fbffd",
+      "database_name": "d1-template-database-litebite"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
