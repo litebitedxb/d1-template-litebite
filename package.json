@@ -1,5 +1,5 @@
 {
-  "name": "d1-template-litebite",
+  "name": "shrill-block-cb84",
   "description": "Cloudflare's native serverless SQL database.",
   "private": true,
   "cloudflare": {
@@ -20,8 +20,10 @@
     "publish": true
   },
   "devDependencies": {
-    "typescript": "5.8.3",
-    "wrangler": "4.34.0"
+   "typescript": "5.8.3",
+   "wrangler": "4.34.0"
+   }
+
   },
   "scripts": {
     "cf-typegen": "wrangler types",
